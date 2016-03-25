@@ -1,0 +1,29 @@
+{
+  "name": "movie-notifier-lk",
+  "version": "0.0.1",
+  "description": "A simple module to notifier you when your favourite movie is being played at most Sri Lankan cinemas.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishan-marikar/movie-notifier-sri-lanka.git"
+  },
+  "keywords": [],
+  "author": "Ishan Marikar <ishan.marikar@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishan-marikar/movie-notifier-sri-lanka/issues"
+  },
+  "homepage": "https://github.com/ishan-marikar/movie-notifier-sri-lanka#readme",
+  "dependencies": {
+    "autocorrect": "^1.1.0",
+    "debug": "^2.2.0",
+    "striptags": "^2.1.1",
+    "superagent": "^1.8.3"
+  }
+}
