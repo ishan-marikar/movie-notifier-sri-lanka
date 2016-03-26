@@ -7,14 +7,14 @@ A simple module to notifier you when your favourite movie is being played at mos
 Download node at [nodejs.org](http://nodejs.org) and install it, if you haven't already.
 
 ```sh
-npm install movie-notifier --save
+npm install movie-notifier-lk --save
 ```
 ## Usage
 
 ### EAP Movies
 
 ```js
-var MovieNotifier = require('movie-notifier');
+var MovieNotifier = require('movie-notifier-lk');
 
 var notifier = MovieNotifier.EAP({
   interval: 2000,
