@@ -1,6 +1,6 @@
 {
   "name": "movie-notifier-lk",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A simple module to notifier you when your favourite movie is being played at most Sri Lankan cinemas.",
   "main": "index.js",
   "directories": {
