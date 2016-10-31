@@ -21,9 +21,12 @@ var notifier = MovieNotifier.EAP({
   search: 'Batman vs. Superman'
 });
 
-notifier.on('found', function(){
-  console.log('Movie is being played at EAP cinemas.')
+notifier.on('found', function(movie){
+  console.log( movie + ' is being played at EAP cinemas.')
 });
+
+notifier.listen();
+
 ```
 
 ### Ceylon Theaters
