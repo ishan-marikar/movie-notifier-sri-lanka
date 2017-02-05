@@ -23,7 +23,7 @@
   "dependencies": {
     "autocorrect": "^1.1.0",
     "debug": "^2.2.0",
-    "striptags": "^3.0.0",
+    "striptags": "^3.0.1",
     "superagent": "^3.3.2"
   }
 }
