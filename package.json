@@ -24,6 +24,6 @@
     "autocorrect": "^1.1.0",
     "debug": "^2.2.0",
     "striptags": "^3.0.0",
-    "superagent": "^3.3.2"
+    "superagent": "^3.6.3"
   }
 }
